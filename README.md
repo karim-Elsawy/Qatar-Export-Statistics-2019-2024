@@ -27,6 +27,21 @@ Resilience & Post-Peak Adjustment: After a pandemic-induced contraction in 2020 
 🛠️ Technical Implementation & Features
 Data Modeling & Time Intelligence: Developed robust DAX measures to calculate dynamic Year-over-Year (YoY) growth in terms of absolute monetary value and percentages while handling missing dates/blanks seamlessly.
 
+
+## 📸 Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](Executive%20Overview%20.png)
+
+### 2. Geographic & Volume Analysis
+![Geographic & Volume](Geographic%20%26%20Volume.png)
+
+### 3. Top Destinations Analysis
+![Top Destinations](Top%20Destinations.png)
+
+### 4. Product Analysis
+![Product Analysis](Product%20Analysis.png)
+
 Seamless Navigation (UX/UI): Implemented a top-bar custom navigation framework linking 4 distinct analytical views for an intuitive app-like user experience.
 
 Dynamic Formatting: Applied conditional formatting (Red/Green indicators) and standard display units (Billions vs. Millions) to optimize visual density and executive readability.
