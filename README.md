@@ -19,12 +19,8 @@ Energy Sector Dominance: Petroleum gases and oils dominate export revenue, accou
 
 Resilience & Post-Peak Adjustment: After a pandemic-induced contraction in 2020 (-29.4%) and rapid rebound in 2021 (+69.3%), exports normalized in 2023 (-25.4%) and stabilized in 2024 (-2.8% at QAR 345.1B).
 
-📸 Dashboard Preview
-1. Executive Overview
-2. Geographic & Volume Analysis
-3. Top Destinations Analysis
-4. Product Analysis
-🛠️ Technical Implementation & Features
+
+##🛠️ Technical Implementation & Features
 Data Modeling & Time Intelligence: Developed robust DAX measures to calculate dynamic Year-over-Year (YoY) growth in terms of absolute monetary value and percentages while handling missing dates/blanks seamlessly.
 
 
